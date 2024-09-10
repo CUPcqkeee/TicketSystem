@@ -1,0 +1,23 @@
+{
+  "emoji": {
+    "successfully": "<:galochka:1269068703996055643>",
+    "warning": "<a:warnings:877264842854113322>",
+    "ticket": ":envelope_with_arrow:"
+  },
+  "ticket_emoji": {
+    "complaint": "⚠",
+    "ask_server": "⁉",
+    "get_plus": "📦",
+    "bug": "💣",
+    "inventory": "💀",
+    "change_name": "🔖",
+    "payment": "🛒",
+    "other": "✨"
+  },
+  "system": {
+    "guild_id": 1228090741600026684,
+    "owner_id": 1280079528609185814,
+    "admin_id": 1280079550705045587,
+    "ticket_channel": 1280082305792217180
+  }
+}
